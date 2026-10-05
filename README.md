@@ -1,3 +1,6 @@
+<img width="1208" height="809" alt="image" src="https://github.com/user-attachments/assets/cf535b8b-f20d-4569-9b8f-9827279fbc57" />
+<img width="1202" height="804" alt="image" src="https://github.com/user-attachments/assets/3c341111-fdcc-4267-8053-c3d1a0a738de" />
+
 # Tableau User Story | Sales Performance
 
 ## Intorduction
